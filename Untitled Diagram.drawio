@@ -1,1 +1,191 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T14:15:57.078Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.10.0" etag="bXXNogeyevABb4qGjj8Z" type="github"><diagram id="7ZArBG9hs-D-CvOzS3Go">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-20T14:39:27.507Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Or9BeiTtKQ16PY22E6T9" version="13.10.0" type="github">
+  <diagram id="7ZArBG9hs-D-CvOzS3Go" name="Page-1">
+    <mxGraphModel dx="2177" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-1" target="LiXJOZ6gmB5I6wu3kyD4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-1" value="Station Team Submits PSR and indicate&lt;br&gt;Damaged and Expired stock&lt;br&gt;(Current Discard option to be removed)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="20" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-2" target="LiXJOZ6gmB5I6wu3kyD4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-2" value="COPs team review and approves PSR&lt;br&gt;Verify damage and expiry proofs" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-4" target="LiXJOZ6gmB5I6wu3kyD4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-4" target="LiXJOZ6gmB5I6wu3kyD4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-4" value="System creates stock adjustment entries and moves stock to damaged and expired warehouses" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-8" target="LiXJOZ6gmB5I6wu3kyD4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-8" value="Damaged Stock Entry&lt;br&gt;sent to ASM for acceptance" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-10" target="LiXJOZ6gmB5I6wu3kyD4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-10" value="Expired Stock Entry&lt;br&gt;sent to CPO for acceptance" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-12" target="LiXJOZ6gmB5I6wu3kyD4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-12" target="LiXJOZ6gmB5I6wu3kyD4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-12" target="LiXJOZ6gmB5I6wu3kyD4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-12" value="ASM marks as" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="338" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-15" target="LiXJOZ6gmB5I6wu3kyD4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-15" value="Saleable as is" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="437" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-17" target="LiXJOZ6gmB5I6wu3kyD4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-17" value="Saleable with discount" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="437" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-19" target="LiXJOZ6gmB5I6wu3kyD4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-19" value="Not saleable and needs to be discarded" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="437" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-21" target="LiXJOZ6gmB5I6wu3kyD4-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-21" value="Assign to Station team for acceptance and stock moved to main warehouse" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="537" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-23" target="LiXJOZ6gmB5I6wu3kyD4-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-23" value="Assign to Station team for acceptance and stock gets moved to main warehouse and repacked into _discounted item code" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="537" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-26" target="LiXJOZ6gmB5I6wu3kyD4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-26" value="Collect Proof" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="537" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-28" target="LiXJOZ6gmB5I6wu3kyD4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-28" value="Assign to COPs for approval&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="607" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-30" target="LiXJOZ6gmB5I6wu3kyD4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-30" value="COPs Approval" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="677" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-31" target="LiXJOZ6gmB5I6wu3kyD4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-31" value="Move stock to Discarded Warehouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="777" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-34" target="LiXJOZ6gmB5I6wu3kyD4-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-34" target="LiXJOZ6gmB5I6wu3kyD4-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="378" />
+              <mxPoint x="790" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-34" value="CPO Manager" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="338" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-36" target="LiXJOZ6gmB5I6wu3kyD4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-36" value="Returnable to Supplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="437" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-37" target="LiXJOZ6gmB5I6wu3kyD4-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="807" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-37" value="Not returnable and needs to be discarded" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="437" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-43" value="Create a purchase return entry in the system" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="527" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-46" value="Damaged Stock becomes 0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="727" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-48" value="Damaged Stock becomes 0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="727" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-50" target="LiXJOZ6gmB5I6wu3kyD4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-50" value="Damaged/ Expired &lt;br&gt;Stock becomes 0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="867" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-52" target="LiXJOZ6gmB5I6wu3kyD4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-52" value="Move stock to Discarded Warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="977" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-54" target="LiXJOZ6gmB5I6wu3kyD4-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-54" value="Assign station for discarding the stock as per the SOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-55" target="LiXJOZ6gmB5I6wu3kyD4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-55" value="Attach proofs and submit to COPs for approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-56" target="LiXJOZ6gmB5I6wu3kyD4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-56" value="COPs approval" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-57" target="LiXJOZ6gmB5I6wu3kyD4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-57" value="Stock is moved out of discard warehouse and written off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-58" value="Discard warehouse Stock becomes 0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1380" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
