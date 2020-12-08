@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T08:45:13.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="-JgcTojOAh18T0fOn5KJ" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T05:23:39.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="Uh1sqxBH_sc0vySIgvF7" version="13.10.9" type="github">
   <diagram id="7ZArBG9hs-D-CvOzS3Go" name="Page-1">
     <mxGraphModel dx="2691" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,6 +142,9 @@
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-37" value="Not returnable and needs to be discarded" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="747" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-43" target="dZHpEq6wHDCrCsrzfRTZ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-43" value="Create a purchase return entry in the system" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="837" width="120" height="160" as="geometry" />
         </mxCell>
@@ -266,7 +269,7 @@
         <mxCell id="dZHpEq6wHDCrCsrzfRTZ-26" value="NO" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="190" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-27" value="BO Approval &lt;br&gt;Damaged/Expired/Discard&lt;br&gt;&amp;gt; 7500 (MTD)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-27" value="BO/Partner Approval &lt;br&gt;Damaged/Expired/Discard&lt;br&gt;&amp;gt; 7500 (MTD)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="350" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dZHpEq6wHDCrCsrzfRTZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dZHpEq6wHDCrCsrzfRTZ-27">
@@ -287,6 +290,12 @@
         </mxCell>
         <mxCell id="dZHpEq6wHDCrCsrzfRTZ-32" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-33" value="Returnable to Supplier from Expired WH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1037" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-35" value="Adjustment Entry for waivers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="912" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
