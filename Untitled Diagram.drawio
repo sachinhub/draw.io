@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T09:42:12.399Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="NGR__iQraOadCUUCsrXs" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T10:16:28.858Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="c5cViVfoLtYpUr2BEynD" version="14.2.7" type="github">
   <diagram id="7ZArBG9hs-D-CvOzS3Go" name="Page-1">
     <mxGraphModel dx="2408" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-1" value="Station Team Submits PSR and indicate&lt;br&gt;Damaged and Expired stock&lt;br&gt;(Current Discard option to be removed)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="20" width="280" height="60" as="geometry" />
+          <mxGeometry x="300" y="20" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RUdcQAAprqhA2io5FsUE-2" target="LiXJOZ6gmB5I6wu3kyD4-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-2" value="COPs team review and approves PSR&lt;br&gt;Verify damage and expiry proofs" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="100" width="280" height="60" as="geometry" />
+          <mxGeometry x="300.63" y="100" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-4" target="LiXJOZ6gmB5I6wu3kyD4-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-4" target="LiXJOZ6gmB5I6wu3kyD4-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-4" value="System creates stock adjustment entries and moves stock to damaged and expired warehouses" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LiXJOZ6gmB5I6wu3kyD4-4" value="System creates stock adjustment &lt;br&gt;entries and moves stock to damaged and &lt;br&gt;expired warehouses" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="570" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiXJOZ6gmB5I6wu3kyD4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-8" target="LiXJOZ6gmB5I6wu3kyD4-12" edge="1">
@@ -199,7 +199,11 @@
           <mxGeometry x="290" y="1690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dZHpEq6wHDCrCsrzfRTZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.886;exitY=1.017;exitDx=0;exitDy=0;entryX=0.854;entryY=-0.033;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="dZHpEq6wHDCrCsrzfRTZ-3" target="dZHpEq6wHDCrCsrzfRTZ-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="491" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dZHpEq6wHDCrCsrzfRTZ-3" value="Adjustment Entry created for the Net Loss (except for Damaged/Expired Stock)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="911" y="430" width="360" height="60" as="geometry" />
@@ -248,8 +252,8 @@
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-22" value="BO Approval for stock shortage &amp;gt; 7500 (MTD)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="331.25" y="190" width="237.5" height="180" as="geometry" />
+        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-22" value="BO Approval for &lt;br&gt;stock shortage &amp;gt; &lt;br&gt;7500 (MTD)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330.63" y="230" width="218.75" height="130" as="geometry" />
         </mxCell>
         <mxCell id="dZHpEq6wHDCrCsrzfRTZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LiXJOZ6gmB5I6wu3kyD4-2" target="dZHpEq6wHDCrCsrzfRTZ-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +269,7 @@
             <mxPoint x="500" y="220" as="sourcePoint" />
             <mxPoint x="300" y="130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="280" />
+              <mxPoint x="270" y="295" />
               <mxPoint x="270" y="130" />
             </Array>
           </mxGeometry>
@@ -275,9 +279,6 @@
         </mxCell>
         <mxCell id="dZHpEq6wHDCrCsrzfRTZ-33" value="Returnable to Supplier from Expired WH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="1037" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dZHpEq6wHDCrCsrzfRTZ-35" value="Adjustment Entry for waivers" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="912" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RUdcQAAprqhA2io5FsUE-1" value="BO/Partner Approval &lt;br&gt;Damaged/Expired/Discard&lt;br&gt;&amp;gt; 7500 (MTD)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="955" y="70" width="230" height="120" as="geometry" />
